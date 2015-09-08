@@ -33,3 +33,14 @@
 
 (= (#(* 2 %) 11) 22)
 
+;;; Problem #10: Intro to the maps
+
+; What I pasted in the box:
+
+20
+
+;because we returned the part that was after :b
+
+;;; Problem 16: Hello World
+
+;

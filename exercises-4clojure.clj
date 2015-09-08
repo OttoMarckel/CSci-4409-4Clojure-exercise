@@ -44,3 +44,10 @@
 ;;; Problem 16: Hello World
 
 ;
+
+;;;Problem 47: Contain Yourself
+
+;What I pasted in the box
+
+4
+
